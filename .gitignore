@@ -1,0 +1,37 @@
+HELP.md
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+/src/main/resources/evo/deployed_modulesT
+/src/main/resources/fulda/downloadedModulesQ
+/src/main/resources/fulda/downloadedModulesT
+/src/main/resources/fulda/olderReleaseVersion
+/src/main/resources/naturstrom/modules
+/src/main/resources/naturstrom/modulesDestinationDirectory
+/src/main/resources/wwz/modules
+/src/main/resources/wwz/modulesDestinationDirectory
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+### VS Code ###
+.vscode/
